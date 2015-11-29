@@ -69,6 +69,7 @@
    * [「ファンネル」の再現](/Promotion/developLog_Device.md)
 
       ガンダムシリーズで登場するファンネルという浮遊型兵器の動きを再現しました。
+      [ファンネルの参考動画](https://www.youtube.com/watch?v=lITf7n_FeSI)
 
    * [MESHでオープンデータを活用するための工夫](/Promotion/developLog_Software_Web_API.md)
 

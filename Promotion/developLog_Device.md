@@ -4,11 +4,11 @@
 
 * MESHのGPIOタグにブレッドボードで組んだLEDを光らせる回路を連動させ動作を確認
 
-![GPIOTAG_TEST1](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2037%2059.jpg "Mamanel01")
+![GPIOTAG_TEST1](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2037%2059.jpg "Mamanel01")
 
-![GPIOTAG_TEST2](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2038%2003.jpg "Mamanel02")
+![GPIOTAG_TEST2](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2038%2003.jpg "Mamanel02")
 
-![GPIOTAG_TEST3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2038%2010.jpg "Mamanel03")
+![GPIOTAG_TEST3](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2038%2010.jpg "Mamanel03")
 
 ### DCモーターの動作を確認
 * DCモーターの回転を制御するコードを書いて動作を確認
@@ -43,81 +43,102 @@ delay(2000);
 
 
 ### MESHのGPIOタグを使った回路でDCモーターを制御
+
 * MESHのGPIOタグにブレッドボードとArduinoを組み合わせた回路を製作
 
-![GPIOMOTOR_1](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2027.jpg "Mamanel04")
+![GPIOMOTOR_1](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2027.jpg "Mamanel04")
 
-![GPIOMOTOR_2](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2024%2039.jpg "Mamanel05")
+![GPIOMOTOR_2](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2024%2039.jpg "Mamanel05")
 
-![GPIOMOTOR_3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
+![GPIOMOTOR_3](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
 
-*回路図
-![GPIOFRITZING_1](MESH_回路.png)//回路図
+![GPIOFRITZING_1](/Promotion/Images/Dev_Device/MESH_回路.png)
+
+   * 回路図
 
 
 ##MESHのアプリケーション上でMESH同士を制御
-* MESHのアプリケーションを使ってGPIOタグとMotionタグとBrightnessタグを連携
 
-![GPIOMOTOR_4](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2031.png "Mamanel07")
+* MESHのアプリケーションを使ってGPIOタグとMoveタグを連携
 
-![GPIOMOTOR_5](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2037.png "Mamanel08")
+![GPIOMOTOR_4](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2031.png "Mamanel07")
 
-![GPIOMOTOR_6](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2057.png "Mamanel09")
+![GPIOMOTOR_5](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2037.png "Mamanel08")
 
-![GPIOMOTOR_7](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2022%2004.png "Mamanel10")
+![GPIOMOTOR_6](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2057.png "Mamanel09")
 
-![GPIOMOTOR_8](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2022%2014.png "Mamanel11")
+![GPIOMOTOR_7](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2022%2004.png "Mamanel10")
 
-![GPIOMOTOR_9](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2023%2053.png "Mamanel12")
+![GPIOMOTOR_8](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2022%2014.png "Mamanel11")
+
+![GPIOMOTOR_9](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2023%2053.png "Mamanel12")
+
+
+[MESHアプリケーション動作サンプル動画](https://www.youtube.com/watch?v=f9rDeFbkYcs)
 
 ## 2.ボディの製作
 ###デザインの経緯
-*ファンネルというからには浮遊させたい
- 数機が使用者の周りを浮遊するイメージでスタート
 
-*使用者の腰にアーチを着ける案も出たが、前進させる方向にシフト
- 尖った形状のものが多かったが、往復のためシンメトリーに
+   * ファンネルというからには浮遊させたい
 
-*買い揃えられるものや、制作難度を加味し、形状よりも柄に注力する方向へ
+   * ファンネル数機が使用者の周りを浮遊するイメージでスタート
 
+![DESIGN_1](/Promotion/Images/Dev_Device/IMG_20151130_0001.jpg "Design1")
+
+   * 使用者の腰にアーチを着ける案も出たが、前進させる方向にシフト
+
+   * 尖った形状のものが多かったが、往復のためシンメトリーに
+
+![DESIGN_2](/Promotion/Images/Dev_Device/IMG_20151130_0002.jpg "Design2")
+
+   * 買い揃えられるものや、製作難度を加味し、形状よりも表面のデザインに注力する方向へ
+
+![DESIGN_3](/Promotion/Images/Dev_Device/IMG_20151130_0003.jpg "Design3")
 
 ### 制作部分のこだわり
-*シンメトリーな形状
- 前進と後退が可能な特性を活かすために、前後どちらの向きで進んでも違和感が生じない形状を採用
+* シンメトリーな形状
 
-*赤・青・白・銀を基調にしたカラー
-宇宙船やロケットのような色を使い、近未来的な模様でファンネルを思わせる雰囲気を演出。銀シールを絵具で塗り、パーツパーツを丁寧に切り貼りし、細部にも装飾を施した
+   前進と後退が可能な特性を活かすために、前後どちらの向きで進んでも違和感が生じない形状を採用
 
-*プラスチックやアクリルの材質
-硬さと透明感を両立するためにプラスチックやアクリルの材質を使用
-特に支柱は、ファンネルを支える強度と、あくまで浮いているように見える透明さの両立を簡単な素材で可能にするため、接着方法と素材を厳選した
+* 赤・青・白・銀を基調にしたカラー
+
+   宇宙船やロケットのような色を使い、近未来的な模様でファンネルを思わせる雰囲気を演出。銀シールを絵具で塗り、パーツパーツを丁寧に切り貼りし、細部にも装飾を施した
+
+* プラスチックやアクリルの材質
+   硬さと透明感を両立するためにプラスチックやアクリルの材質を使用
+   特に支柱は、ファンネルを支える強度と、あくまで浮いているように見える透明さの両立を簡単な素材で可能にするため、接着方法と素材を厳選した
 
 
 ### MESHのタグとiPodTouchが入る「ファンネル」部分を製作
 
+   * 筒状のプラスチックで製作
 
-* 筒状のプラスチックで製作
+![MESHBODY_1](/Promotion/Images/Dev_Device/DSC01637.JPG "Mamanel13")
 
-![MESHBODY_1](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01637.JPG "Mamanel13")
+![MESHBODY_2](/Promotion/Images/Dev_Device/DSC01638.JPG "Mamanel14")
 
-![MESHBODY_2](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01638.jpg "Mamanel14")
+![MESHBODY_3](/Promotion/Images/Dev_Device/DSC01663.JPG "Mamanel15")
 
-![MESHBODY_3](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01639.jpg "Mamanel15")
+![MESHBODY_4](/Promotion/Images/Dev_Device/DSC01665.JPG "Mamanel16")
 
-![MESHBODY_4](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01640.JPG "Mamanel16")
+![MESHBODY_5](/Promotion/Images/Dev_Device/DSC01640.JPG "Mamanel17")
 
 * 塗装
 
-![MESHBODY_5](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01643.JPG "Mamanel17")
+![MESHBODY_6](/Promotion/Images/Dev_Device/DSC01643.JPG "Mamanel18")
 
 ### 「ファンネル」を浮かせるための部分を製作
 
-* ボックス状のプラスチックで製作
+   * ボックス状のプラスチックで製作
 
-![MESHBODY_6](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01634.jpg "Mamanel18")
+![MESHBODY_6](/Promotion/Images/Dev_Device/DSC01634.JPG "Mamanel19")
 
 ##　3. 駆動部の製作
-* 使用したパーツの情報
-タミヤ　タンク工作基本セットhttp://www.tamiya.com/japan/products/70108tracked_vehicle/
-東芝セミコンダクター　モータードライバーhttp://akizukidenshi.com/catalog/g/gI-02001/
-タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした
+   * 使用したパーツの情報
+
+      [タミヤ タンク工作基本セット](http://www.tamiya.com/japan/products/70108tracked_vehicle/)
+
+      [東芝セミコンダクターモータードライバー](http://akizukidenshi.com/catalog/g/gI-02001/)
+
+      * タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした
+      * [自作デバイス動作サンプル動画](https://www.youtube.com/watch?v=JCudKifrum4)
