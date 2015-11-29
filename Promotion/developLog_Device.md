@@ -52,10 +52,9 @@ delay(2000);
 
 ![GPIOMOTOR_3](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
 
-   
-*　回路図
-
 ![GPIOFRITZING_1](/Promotion/Images/Dev_Device/MESH_回路.png)
+
+   * 回路図
 
 
 ##MESHのアプリケーション上でMESH同士を制御
