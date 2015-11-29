@@ -1,23 +1,6 @@
 # オカンネル~Mamanel~
 ![OkannelLogo](/Promotion/Images/Presentation/Mananel_slide_1.png)
 
-## 目次
-=================
-  * [オカンネル](#okanel)
-    * [目次](#index)
-    * [製品概要](#introduce)
-      * [背景](#background)
-      * [製品説明](#detail)
-      * [製品の使用例](#ex)
-      * [特長](#point)
-      * [解決出来ること](#view)
-      * [今後の展望](#combo)
-      * [注力したこと（こだわり等）](#combo)
-    * [開発技術](#technic)
-      * [活用した技術](#use)
-      * [独自技術](#make)
-    * [参考資料](#plus)
-
 ## 製品概要
 ### 背景
 * 朝の親子間のやり取りで生まれるストレスを軽減する新しいコミュニケーションツール
@@ -87,7 +70,7 @@
 
       ガンダムシリーズで登場するファンネルという浮遊型兵器の動きを再現すること。
 
-   * MESHでオープンデータを活用するための工夫
+   * [MESHでオープンデータを活用するための工夫](/Promotion/developLog_Software_Web_API.md)
 
       MESH単体ではオープンデータの処理が難しいため、独自でサーバーを作成しオープンデータが活用できるように工夫したこと。
    
@@ -115,8 +98,10 @@
 ## 参考資料
 ### 製作過程
    Meshの開発環境上、ソースコードではなくアプリケーション上でのタグの組み合わせによりデバイスが操作するためGithubでの共有が難しい。
-   また「オカンネル」のデバイスを製作する過程もGithubに共有することできないため、下記の文書を製作している
-   *ME   
+   また「オカンネル」のデバイスを製作する過程もGithubに共有することできないため、下記の文書を製作している。
+   * [Meshとデバイスの連携及び製作過程](/Promotion/developLog_Device.md)
+   * [MeshとAPIの連携過程](/Promotion/developLog_Software_Web_API.md)
+   * [Meshのオリジナルタグ作成過程](/Promotion/developLog_Software_Web_API.md)
 ### デモ動画
    * [実演動画](https://www.youtube.com/watch?v=T6NIvaxfhoc)
    * [自作デバイス動作サンプル動画](https://www.youtube.com/watch?v=JCudKifrum4)
