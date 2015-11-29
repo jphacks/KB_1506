@@ -1,6 +1,6 @@
 # オカンネル~Mamanel~ / ハードウェア製作
-## 1.駆動部のMeshとの連携
-### MeshのGPIOタグとブレッドボードで回路を製作
+## 1.駆動部のMESHとの連携
+### MESHのGPIOタグとブレッドボードで回路を製作
 
 * MESHのGPIOタグにブレッドボードで組んだLEDを光らせる回路を連動させ動作を確認
 
@@ -42,9 +42,8 @@ delay(2000);
 ```
 
 
-### MeshのGPIOタグを使った回路でDCモーターを制御
-
-* MeshのGPIOタグにブレッドボードとArduinoを組み合わせた回路を製作
+### MESHのGPIOタグを使った回路でDCモーターを制御
+* MESHのGPIOタグにブレッドボードとArduinoを組み合わせた回路を製作
 
 ![GPIOMOTOR_1](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2027.jpg "Mamanel04")
 
@@ -52,12 +51,12 @@ delay(2000);
 
 ![GPIOMOTOR_3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
 
+*回路図
+![GPIOFRITZING_1]()//回路図
 
 
-
-
-
-* MESHのアプリケーションを使ってMotionタグと連携
+##MESHのアプリケーション上でMESH同士を制御
+* MESHのアプリケーションを使ってGPIOタグとMotionタグとBrightnessタグを連携
 
 ![GPIOMOTOR_4](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2031.png "Mamanel07")
 
@@ -72,7 +71,21 @@ delay(2000);
 ![GPIOMOTOR_9](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2023%2053.png "Mamanel12")
 
 ## 2.ボディの製作
+
+### 制作部分のこだわり
+*シンメトリーな形状
+** 前進と後退が可能なため、一方通行にならず、前後どちらの向きで進んでも違和感が生じない形状にしました。
+
+*赤・青・白・銀を基調にしたカラー
+** 宇宙船やロケットのような色を使い、近未来的な模様でファンネルを思わせる雰囲気を演出しました。銀シールを絵具で塗り、パーツパーツを丁寧に切り貼りしてあります。
+
+*プラスチックやアクリルの材質
+** 硬さと透明感を両立するためにプラスチックやアクリルの材質を使用しました。
+** 特に支柱は、ファンネルを支える強度と、あくまで浮いているように見える透明さの両立を簡単な素材で可能にしないいけないため、素材選びと接着に時間をかけました。
+
+
 ### MESHのタグとiPodTouchが入る「ファンネル」部分を製作
+
 
 * 筒状のプラスチックで製作
 
