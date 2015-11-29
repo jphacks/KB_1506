@@ -1,9 +1,9 @@
 # オカンネル~Mamanel~
-![OkannelLogo](Promotion\Images\Presentation\Mananel_slide_1.png)
+![OkannelLogo](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_1.png)
 ## 製品概要
 ### 背景
 * 朝の親子間のやり取りで生まれるストレスを軽減する新しいコミュニケーションツール
-![Okannelpresentation1](Promotion\Images\Presentation\Mananel_slide_2.png)
+![Okannelpresentation1](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_2.png)
 
    毎朝、お母さんは忙しいです。家事をこなす中でも、子供のことを気にかけて、いろんなことに口出ししてしまうからです。
 
@@ -16,7 +16,7 @@
    そんな朝のストレスをなくすために私たちは、新しいコミュニケーションツールを開発しました。
 
 ### 製品説明
-![Okannelpresentation2](Promotion\Images\Presentation\Mananel_slide_3.png)
+![Okannelpresentation2](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_3.png)
    「オカンネル」はSonyMeshを搭載した浮遊型デバイスです。
 
    お母さんは言っておかないといけないことを予めオカンネルに入力しておくことができます。
@@ -34,10 +34,10 @@
    普段、「今日寒いから上着持って行き」「燃えるごみ出しといて」などのメッセージを子供に届けてくれます。
 
 ### 製品の使用例
-![Okannelpresentation3](Promotion\Images\Presentation\Mananel_slide_4.png)
-![Okannelpresentation4](Promotion\Images\Presentation\Mananel_slide_5.png)
-![Okannelpresentation5](Promotion\Images\Presentation\Mananel_slide_6.png)
-![Okannelpresentation6](Promotion\Images\Presentation\Mananel_slide_7.png)
+![Okannelpresentation3](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_4.png)
+![Okannelpresentation4](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_5.png)
+![Okannelpresentation5](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_6.png)
+![Okannelpresentation6](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_7.png)
 
 ### 特長
 ####1. 伝えたい事をちゃんと伝えられる
@@ -73,7 +73,7 @@
 
       MESH単体ではオープンデータの処理が難しいため、独自でサーバーを作成しオープンデータが活用できるように工夫したこと。
    
-![Okannelpresentation7](Promotion\Images\Presentation\Mananel_slide_8.png)
+![Okannelpresentation7](http://github.com/jphacks/KB_06/blob/Images/Presentation/Mananel_slide_8.png)
 
 ## 開発技術
 ### 活用した技術
@@ -93,3 +93,5 @@
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術
    * [Meshとオープンデータとの連携](/Promotion/developLog_Software_Web_API.md)
+
+   https://github.com/jphacks/KB_06/blob/edit_README.md/Promotion/Images/Presentation/Mananel_slide_1.png
