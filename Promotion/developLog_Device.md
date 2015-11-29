@@ -51,13 +51,16 @@ delay(2000);
 
 ![GPIOMOTOR_3](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
 
-*　回路図
+   
+   *　回路図
+
 
 ![GPIOFRITZING_1](/Promotion/Images/Dev_Device/MESH_回路.png)
 
 
 ##MESHのアプリケーション上でMESH同士を制御
-* MESHのアプリケーションを使ってGPIOタグとMotionタグとBrightnessタグを連携
+
+* MESHのアプリケーションを使ってGPIOタグとMoveタグを連携
 
 ![GPIOMOTOR_4](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2031.png "Mamanel07")
 
@@ -71,11 +74,15 @@ delay(2000);
 
 ![GPIOMOTOR_9](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2023%2053.png "Mamanel12")
 
+
+[MESHアプリケーション動作サンプル動画](https://www.youtube.com/watch?v=f9rDeFbkYcs)
+
 ## 2.ボディの製作
 ###デザインの経緯
-　　　* ファンネルというからには浮遊させたい
 
-　　　* ファンネル数機が使用者の周りを浮遊するイメージでスタート
+   * ファンネルというからには浮遊させたい
+
+   * ファンネル数機が使用者の周りを浮遊するイメージでスタート
 
 ![DESIGN_1](/Promotion/Images/Dev_Device/IMG_20151130_0001.jpg "Design1")
 
@@ -126,6 +133,9 @@ delay(2000);
 
 ##　3. 駆動部の製作
    * 使用したパーツの情報
+
       [タミヤ タンク工作基本セット](http://www.tamiya.com/japan/products/70108tracked_vehicle/)
+
       [東芝セミコンダクターモータードライバー](http://akizukidenshi.com/catalog/g/gI-02001/)
-   ** タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした
+
+      * タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした  [自作デバイス動作サンプル動画](https://www.youtube.com/watch?v=JCudKifrum4)
