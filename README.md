@@ -102,7 +102,7 @@
    また「オカンネル」のデバイスを製作する過程もGithubに共有することできないため、下記の文書を作成しました。
    * [Meshとデバイスの連携及び製作過程](/Promotion/developLog_Device.md)
    * [MeshとAPIの連携過程](/Promotion/developLog_Software_Web_API.md)
-   * [Meshのオリジナルタグ作成過程](/Promotion/developLog_Software_Web_API.md)
+   * [Meshのオリジナルタグ作成過程](/Promotion/developLog_Software_MESH_Tag.md)
 
 ### デモ動画
    * [実演動画](https://www.youtube.com/watch?v=T6NIvaxfhoc)
