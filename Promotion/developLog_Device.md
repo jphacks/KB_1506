@@ -2,7 +2,7 @@
 ## 1.駆動部のMeshとの連携
 ### MeshのGPIOタグとブレッドボードで回路を製作
 
-* MeshのGPIOにプレッドボードで組んだLEDを光らせる回路を連動させ動作を確認
+* MESHのGPIOタグにブレッドボードで組んだLEDを光らせる回路を連動させ動作を確認
 
 ![GPIOTAG_TEST1](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2037%2059.jpg "Mamanel01")
 
@@ -10,16 +10,8 @@
 
 ![GPIOTAG_TEST3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2014%2038%2010.jpg "Mamanel03")
 
-### MeshのGPIOタグを使った回路でモーターを制御
-
-* MeshのGPIOにプレッドボードとArduinoを組み合わせた回路を製作
-
-![GPIOMOTOR_1](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2027.jpg "Mamanel04")
-
-![GPIOMOTOR_2](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2024%2039.jpg "Mamanel05")
-
-![GPIOMOTOR_3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
-
+### DCモーターの動作を確認
+* DCモーターの回転を制御するコードを書いて動作を確認
 
 ```Arduino:motor_sample.ino
 // サンプルコード
@@ -30,27 +22,42 @@ const int motor1P = 9;
 
 // 初期設定
 void setup(){
-  pinMode(motor1A,OUTPUT); // 信号用ピン
-  pinMode(motor1B,OUTPUT); // 信号用ピン
+pinMode(motor1A,OUTPUT); // 信号用ピン
+pinMode(motor1B,OUTPUT); // 信号用ピン
 }
 
 // 繰り返し
 void loop(){
-    // 回転
-    digitalWrite(motor1A,HIGH);
-    digitalWrite(motor1B,LOW);
-    analogWrite(motor1P,100);
-    delay(2000);
-    // 静止
-    digitalWrite(motor1A,LOW);
-    digitalWrite(motor1B,LOW);
-    delay(2000);
+// 回転
+digitalWrite(motor1A,HIGH);
+digitalWrite(motor1B,LOW);
+analogWrite(motor1P,100);
+delay(2000);
+// 静止
+digitalWrite(motor1A,LOW);
+digitalWrite(motor1B,LOW);
+delay(2000);
 
 }
 ```
 
 
-* Meshのアプリケーションを使ってMotionタグと連携
+### MeshのGPIOタグを使った回路でDCモーターを制御
+
+* MeshのGPIOタグにブレッドボードとArduinoを組み合わせた回路を製作
+
+![GPIOMOTOR_1](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2027.jpg "Mamanel04")
+
+![GPIOMOTOR_2](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2024%2039.jpg "Mamanel05")
+
+![GPIOMOTOR_3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
+
+
+
+
+
+
+* MESHのアプリケーションを使ってMotionタグと連携
 
 ![GPIOMOTOR_4](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2021%2031.png "Mamanel07")
 
@@ -65,7 +72,7 @@ void loop(){
 ![GPIOMOTOR_9](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2023%2053.png "Mamanel12")
 
 ## 2.ボディの製作
-### MeshのタグとiPodTouchが入る「ファンネル」部分を製作
+### MESHのタグとiPodTouchが入る「ファンネル」部分を製作
 
 * 筒状のプラスチックで製作
 
