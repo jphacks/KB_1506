@@ -104,9 +104,9 @@ app.run(host='0.0.0.0', port=int(os.environ['PORT']))
 * 今回使用しているデータは，神戸市のごみ排出曜日です．
   * その中でもお母さんが息子に呼びかけることが多いと考えられる「燃えるごみ」の日に着目し使用しています．
 * 以下に，データベースに格納されているデータの一部の画像を掲載します．
-[神戸市の燃えるごみの日](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/example_data.png "神戸市の燃えるごみの日")
+![神戸市の燃えるごみの日](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/example_data.png "神戸市の燃えるごみの日")
 
 ## Web API へのアクセスログ
 * Web API へは，iPod touch上にインストールしたMESHアプリから___オリジナルソフトウェアタグ___を経由してアクセスしています．
 * 以下に Web API へのアクセスログを掲載します．
-[Web API へのアクセス](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/access_log.png "Web API へのアクセス")
+![Web API へのアクセス](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/access_log.png "Web API へのアクセス")
