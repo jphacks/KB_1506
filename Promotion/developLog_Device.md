@@ -43,6 +43,7 @@ delay(2000);
 
 
 ### MESHのGPIOタグを使った回路でDCモーターを制御
+
 * MESHのGPIOタグにブレッドボードとArduinoを組み合わせた回路を製作
 
 ![GPIOMOTOR_1](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2027.jpg "Mamanel04")
@@ -52,8 +53,7 @@ delay(2000);
 ![GPIOMOTOR_3](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
 
    
-   *　回路図
-
+*　回路図
 
 ![GPIOFRITZING_1](/Promotion/Images/Dev_Device/MESH_回路.png)
 
@@ -86,12 +86,13 @@ delay(2000);
 
 ![DESIGN_1](/Promotion/Images/Dev_Device/IMG_20151130_0001.jpg "Design1")
 
-　　　* 使用者の腰にアーチを着ける案も出たが、前進させる方向にシフト
-　　　* 尖った形状のものが多かったが、往復のためシンメトリーに
+   * 使用者の腰にアーチを着ける案も出たが、前進させる方向にシフト
+
+   * 尖った形状のものが多かったが、往復のためシンメトリーに
 
 ![DESIGN_2](/Promotion/Images/Dev_Device/IMG_20151130_0002.jpg "Design2")
 
-　　　* 買い揃えられるものや、製作難度を加味し、形状よりも表面のデザインに注力する方向へ
+   * 買い揃えられるものや、製作難度を加味し、形状よりも表面のデザインに注力する方向へ
 
 ![DESIGN_3](/Promotion/Images/Dev_Device/IMG_20151130_0003.jpg "Design3")
 
