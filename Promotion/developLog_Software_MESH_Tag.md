@@ -11,7 +11,7 @@
 * 以下に，実装したソフトウェアタグの Input と Output, およびソースコードを掲載します．
 
 ## Input および Output
-![タグの Input と Output](image url "タグの Input と Output")
+![タグの Input と Output](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/mesh%20originaltag_input_output.png "タグの Input と Output")
 
 
 ## Initialize
@@ -23,7 +23,6 @@ return {
 	resultType : "continue"
 };
 ```
-
 
 ## Receive
 * 今回，Receive 部分は実装していません．
