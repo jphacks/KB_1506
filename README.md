@@ -102,6 +102,7 @@
    * [Meshとデバイスの連携及び製作過程](/Promotion/developLog_Device.md)
    * [MeshとAPIの連携過程](/Promotion/developLog_Software_Web_API.md)
    * [Meshのオリジナルタグ作成過程](/Promotion/developLog_Software_Web_API.md)
+   
 ### デモ動画
    * [実演動画](https://www.youtube.com/watch?v=T6NIvaxfhoc)
    * [自作デバイス動作サンプル動画](https://www.youtube.com/watch?v=JCudKifrum4)
