@@ -138,4 +138,5 @@ delay(2000);
 
       [東芝セミコンダクターモータードライバー](http://akizukidenshi.com/catalog/g/gI-02001/)
 
-      * タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした  [自作デバイス動作サンプル動画](https://www.youtube.com/watch?v=JCudKifrum4)
+      * タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした
+      * [自作デバイス動作サンプル動画](https://www.youtube.com/watch?v=JCudKifrum4)
