@@ -7,7 +7,7 @@
 * この Web API は，MESH SDK の JavaScript 上からオープンデータを取得できるようにします．
 * そのため，そのデータを使って MESH の振る舞いを変えることができるオリジナルソフトウェアタグを開発することが可能になります．
   * ___私たちは，オープンデータと連携することにより，MESHにさらに多くの可能性を持たせることができると考えています．___
-* 今回開発した MESH アプリ向けのオリジナルソフトウェアタグなどについての詳細は[こちら](http://example.com)
+* 今回開発した MESH アプリ向けのオリジナルソフトウェアタグなどについての詳細は[こちら](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/developLog_Software_MESH_Tag.md)
 
 # 使用技術
 ## 開発言語
