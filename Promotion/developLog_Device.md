@@ -52,6 +52,7 @@ delay(2000);
 ![GPIOMOTOR_3](/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
 
 *　回路図
+
 ![GPIOFRITZING_1](/Promotion/Images/Dev_Device/MESH_回路.png)
 
 
@@ -73,12 +74,13 @@ delay(2000);
 ## 2.ボディの製作
 ###デザインの経緯
 　　　* ファンネルというからには浮遊させたい
-   　　　ファンネル数機が使用者の周りを浮遊するイメージでスタート
+
+　　　* ファンネル数機が使用者の周りを浮遊するイメージでスタート
 
 ![DESIGN_1](/Promotion/Images/Dev_Device/IMG_20151130_0001.jpg "Design1")
 
 　　　* 使用者の腰にアーチを着ける案も出たが、前進させる方向にシフト
-　　　   尖った形状のものが多かったが、往復のためシンメトリーに
+　　　* 尖った形状のものが多かったが、往復のためシンメトリーに
 
 ![DESIGN_2](/Promotion/Images/Dev_Device/IMG_20151130_0002.jpg "Design2")
 
@@ -106,9 +108,9 @@ delay(2000);
 
 ![MESHBODY_1](/Promotion/Images/Dev_Device/DSC01637.JPG "Mamanel13")
 
-![MESHBODY_2](/Promotion/Images/Dev_Device/DSC01638.jpg "Mamanel14")
+![MESHBODY_2](/Promotion/Images/Dev_Device/DSC01638.JPG "Mamanel14")
 
-![MESHBODY_3](/Promotion/Images/Dev_Device/DSC01639.jpg "Mamanel15")
+![MESHBODY_3](/Promotion/Images/Dev_Device/DSC01639.JPG "Mamanel15")
 
 ![MESHBODY_4](/Promotion/Images/Dev_Device/DSC01640.JPG "Mamanel16")
 
@@ -120,10 +122,10 @@ delay(2000);
 
    * ボックス状のプラスチックで製作
 
-![MESHBODY_6](/Promotion/Images/Dev_Device/DSC01634.jpg "Mamanel18")
+![MESHBODY_6](/Promotion/Images/Dev_Device/DSC01634.JPG "Mamanel18")
 
 ##　3. 駆動部の製作
    * 使用したパーツの情報
-      タミヤ : タンク工作基本セットhttp://www.tamiya.com/japan/products/70108tracked_vehicle/
-      東芝セミコンダクター　モータードライバーhttp://akizukidenshi.com/catalog/g/gI-02001/
-      タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした
+      [タミヤ タンク工作基本セット](http://www.tamiya.com/japan/products/70108tracked_vehicle/)
+      [東芝セミコンダクターモータードライバー](http://akizukidenshi.com/catalog/g/gI-02001/)
+   ** タンク工作キットを改造し、モータドライバーを用いてモータの回転の方向を前後制御できるようにした
