@@ -39,13 +39,13 @@ void loop(){
     // 回転
     digitalWrite(motor1A,HIGH);
     digitalWrite(motor1B,LOW);
-    analogWrite(motor1P,100); 
+    analogWrite(motor1P,100);
     delay(2000);
     // 静止
     digitalWrite(motor1A,LOW);
     digitalWrite(motor1B,LOW);
     delay(2000);
-    
+
 }
 ```
 
@@ -69,21 +69,20 @@ void loop(){
 
 * 筒状のプラスチックで製作
 
-![MESHBODY_1](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/DSC01637.jpg "Mamanel13")
+![MESHBODY_1](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01637.JPG "Mamanel13")
 
-![MESHBODY_2](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/DSC01638.jpg "Mamanel14")
+![MESHBODY_2](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01638.jpg "Mamanel14")
 
-![MESHBODY_3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/DSC01639.jpg "Mamanel15")
+![MESHBODY_3](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01639.jpg "Mamanel15")
 
-![MESHBODY_4](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/DSC01640.JPG "Mamanel16")
+![MESHBODY_4](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01640.JPG "Mamanel16")
 
 * 塗装
 
-![MESHBODY_5](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/DSC01643.JPG "Mamanel17")
+![MESHBODY_5](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01643.JPG "Mamanel17")
 
 ### 「ファンネル」を浮かせるための部分を製作
 
 * ボックス状のプラスチックで製作
 
-![MESHBODY_6](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/DSC01634.jpg "Mamanel18")
-
+![MESHBODY_6](https://github.com/jphacks/KB_06/blob/update_Devlog/Promotion/Images/Dev_Device/DSC01634.jpg "Mamanel18")
