@@ -1,0 +1,3 @@
+[submodule "server/okanneru"]
+  path = server/okanneru
+  url = https://github.com/jphacks/KB_06.git
