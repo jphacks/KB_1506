@@ -98,7 +98,7 @@ def getDay():
 
 app.debug = True
 app.run(host='0.0.0.0', port=int(os.environ['PORT']))
-'''
+''
 
 ## データベース内に格納しているデータ
 * 今回使用しているデータは，神戸市のごみ排出曜日です．
