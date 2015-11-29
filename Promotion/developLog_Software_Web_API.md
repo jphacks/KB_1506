@@ -1,4 +1,4 @@
-# 神戸市のゴミ収集API for MESH
+# 神戸市のごみ排出曜日 Web API for MESH
 * [神戸市のごみの排出区分、排出曜日、住所地](http://www.city.kobe.lg.jp/information/opendata/catalogue.html) のオープンデータを使用した Web APIです．
 * MESH において，その基本機能だけでは外部データと連携することはできません．
 * そこで，[MESH SDK](https://meshprj.com/sdk/) というオリジナルのソフトウェアタグ (機能のようなもの) を作成できるサービスを使用すると，外部データとの連携が可能になります．
