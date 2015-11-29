@@ -7,7 +7,7 @@
 * この Web API は，MESH SDK の JavaScript 上からオープンデータを取得できるようにします．
 * そのため，そのデータを使って MESH の振る舞いを変えることができるオリジナルソフトウェアタグを開発することが可能になります．
   * ___私たちは，オープンデータと連携することにより，MESHにさらに多くの可能性を持たせることができると考えています．___
-* 今回開発した MESH アプリ向けのオリジナルソフトウェアタグなどについての詳細は[こちら](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/developLog_Software_MESH_Tag.md)
+* 今回開発した MESH アプリ向けのオリジナルソフトウェアタグなどについての詳細は[こちら](/Promotion/developLog_Software_MESH_Tag.md)
 
 # 使用技術
 ## 開発言語
@@ -104,9 +104,9 @@ app.run(host='0.0.0.0', port=int(os.environ['PORT']))
 * 今回使用しているデータは，神戸市のごみ排出曜日です．
   * その中でもお母さんが息子に呼びかけることが多いと考えられる「燃えるごみ」の日に着目し使用しています．
 * 以下に，データベースに格納されているデータの一部の画像を掲載します．
-![神戸市の燃えるごみの日](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/example_data.png "神戸市の燃えるごみの日")
+![神戸市の燃えるごみの日](/Promotion/Images/Dev_Software/example_data.png "神戸市の燃えるごみの日")
 
 ## Web API へのアクセスログ
 * Web API へは，iPod touch上にインストールしたMESHアプリから___オリジナルソフトウェアタグ___を経由してアクセスしています．
 * 以下に Web API へのアクセスログを掲載します．
-![Web API へのアクセス](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/access_log.png "Web API へのアクセス")
+![Web API へのアクセス](/Promotion/Images/Dev_Software/access_log.png "Web API へのアクセス")

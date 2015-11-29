@@ -2,7 +2,7 @@
 * MESH アプリ上で動作するオリジナルのソフトウェアタグを開発しました．
   * 開発には [MESH SDK](https://meshprj.com/sdk/) を使用しています．
   * マニュアルは [こちら](https://meshprj.com/sdk/doc/)
-* 開発したソフトウェアタグは，[こちら](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/developLog_Software_Web_API.md) の Web API から取得できるオープンデータによって，その後の振る舞いを変更することができます．
+* 開発したソフトウェアタグは，[こちら](/Promotion/developLog_Software_Web_API.md) の Web API から取得できるオープンデータによって，その後の振る舞いを変更することができます．
 
 # 実装したソフトウェアタグのソースコード
 * ソフトウェアタグを開発するプロセスは，Initialize, Receive, Execute, Result となっています．
@@ -11,7 +11,7 @@
 * 以下に，実装したソフトウェアタグの Input と Output, およびソースコードを掲載します．
 
 ## Input および Output
-![タグの Input と Output](https://github.com/jphacks/KB_06/blob/software_readme/Promotion/Images/Dev_Software/mesh%20originaltag_input_output.png "タグの Input と Output")
+![タグの Input と Output](/Promotion/Images/Dev_Software/mesh%20originaltag_input_output.png "タグの Input と Output")
 
 
 ## Initialize
