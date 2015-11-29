@@ -21,7 +21,7 @@
 ![GPIOMOTOR_3](https://github.com/jphacks/KB_06/blob/deploy/Promotion/Images/Dev_Device/%E5%86%99%E7%9C%9F%202015-11-28%2016%2026%2052.jpg "Mamanel06")
 
 
-```Arduino : motor_sample.ino
+```Arduino:motor_sample.ino
 // サンプルコード
 // 出力ピンの定義
 const int motor1A = 7;
